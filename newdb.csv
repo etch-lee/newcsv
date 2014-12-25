@@ -1,2 +1,4 @@
-1,"File number one","the link 1"
-2,"File number two","the link 2"
+"id","Filename","URL"
+1,"File number one","http://example.com/1"
+2,"File number two","http://example.com/2"
+3,"File number three","http://example.com/3"
